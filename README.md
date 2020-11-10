@@ -37,3 +37,5 @@ The instructions for running the code are provided below. The code is written in
   - 2. For Windows, download the file https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip, unzip the file and place the files and folders in the same folder.
   - 3. Open Jupyter Notebook.
   - 4. On Notebook, open Navigation.ipynb and select drlnd in the Kernel.
+  - 5. Run the code in each cell. The results for the weights are stored in the checkpoint.pth file. The rewards per episode are shown in a plot in the Notebook. The environment with bananas viewed from the angle of the agent is shown in another window.
+  - 6. After the goal is reached, the environment is close and the project is completed.
