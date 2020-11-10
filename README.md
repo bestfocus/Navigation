@@ -2,7 +2,12 @@
 This is for completing an Udacity Reinforcement Learning project.
 The goal of this project is to train an agent to pick up only yellow bananas (there are also blue bananas) in a large and square world through a Unity evironment.
 
-The instruction for running the code is provided below. The code is written in Python 3 and PyTorch.
+The features of this project include:
+* How to open a new environment to run a different version of Python from the one in the base environment
+* How to use reinforcement learning (see code)
+* How to use deep learning to train the agent for reinforcement learning (see code)
+
+The instructions for running the code are provided below. The code is written in Python 3 and PyTorch.
 
 1. The state and action spaces, and when the environment is considered solved:
   - 1. The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction.
@@ -11,12 +16,12 @@ The instruction for running the code is provided below. The code is written in P
   
 2. Instructions for installing dependencies or downloading needed files for Windows are provided on https://github.com/udacity/deep-reinforcement-learning#dependencies. The process is summarized as follows:
   - 1. Download AnaConda3
-  - 2. Open the AnaConda Powershell Prompt to enter the following commands to create and activate a new env "drlnd":
+  - 2. Open the AnaConda Powershell Prompt to enter the following commands to create and activate a new env "drlnd" using an old Python version 3.6 required by this project:
     ```
     conda create --name drlnd python=3.6
     conda activate drlnd
     ```
-  - 3. In the new env "drlnd", run the following to install the old pytorch version for running Unity:
+  - 3. In the new env "drlnd", run the following to install the old PyTorch version for installing Unity provided by Udacity:
     ```
     conda install pytorch=0.4.0 -c pytorch
     git clone https://github.com/udacity/deep-reinforcement-learning.git
