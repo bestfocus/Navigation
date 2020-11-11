@@ -41,7 +41,7 @@ The instructions for running the code are provided below. The code is written in
   - 6. After the goal is reached, the environment is close and the project is completed.
 
 # References
-1. Udacity Reinforcement Learning Nanodegree
+1. Udacity Deep Reinforcement Learning Nanodegree Program https://www.udacity.com/
 2. Human-level control through deep reinforcement learning http://files.davidqiu.com//research/nature14236.pdf
 3. Deep Reinforcement Learning with Double Q-learning https://arxiv.org/pdf/1509.06461.pdf
 4. Prioritized Experience Replay https://arxiv.org/abs/1511.05952
