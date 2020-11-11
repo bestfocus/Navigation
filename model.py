@@ -1,3 +1,4 @@
+# This code is from Udacity Deep Reinforcement Learning Deep-Q-Networks homework solution
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
