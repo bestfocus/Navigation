@@ -39,3 +39,10 @@ The instructions for running the code are provided below. The code is written in
   - 4. On Notebook, open Navigation.ipynb and select drlnd in the Kernel.
   - 5. Run the code in each cell. The results for the weights are stored in the checkpoint.pth file. The rewards per episode are shown in a plot in the Notebook. The environment with bananas viewed from the angle of the agent is shown in another window.
   - 6. After the goal is reached, the environment is close and the project is completed.
+
+# References
+1. Udacity Reinforcement Learning Nanodegree
+2. Human-level control through deep reinforcement learning http://files.davidqiu.com//research/nature14236.pdf
+3. Deep Reinforcement Learning with Double Q-learning https://arxiv.org/pdf/1509.06461.pdf
+4. Prioritized Experience Replay https://arxiv.org/abs/1511.05952
+5. Dueling Network Architectures for Deep Reinforcement Learning https://arxiv.org/abs/1511.06581
